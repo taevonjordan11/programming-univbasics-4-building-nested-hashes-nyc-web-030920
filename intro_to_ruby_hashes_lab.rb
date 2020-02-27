@@ -46,7 +46,7 @@ def monopoly_with_fourth_tier
 	      one_piece_owned: 25
 	    },  
 	    names: {
-	      shortline_railroad: {},
+	      shortline_railroad: {"mortgage_value" => "$800"},
 	      b_and_o_railroad: {"mortgage_value" => "$400"}, 
 	      pennsylvania_railroad:{"mortgage_value" => "$200"},
 	      reading_railroad: {"mortgage_value" => "$100"}
